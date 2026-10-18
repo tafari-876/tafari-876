@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [tafaribeckford.com](tafaribeckford.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
