@@ -12,7 +12,7 @@
 
 Passionate about Cloud Infrastructure, Automation, and Platform Engineering, with hands-on experience designing, deploying, and managing scalable, reliable, and secure cloud-native solutions.Always exploring new technologies, improving deployment workflows, and building resilient infrastructure through automation.
 
-- 🏢 DevOps Engineer at **Lucidworks**
+- 🏢 DevOps Engineer at [**Lucidworks**](https://lucidworks.com)
 - 🌱 Currently learning **Go and exploring the fascinating world of LLMs.**
 - 💬 Ask me about **cloud, container orchestration, automation, infrastructure as code**
 
