@@ -18,9 +18,6 @@ Passionate about Cloud Infrastructure, Automation, and Platform Engineering, wit
 
 ## 🛠️ Tech Stack
 
-## 📊 GitHub Stats
-
-<div align="center">
 
 </div>
 
